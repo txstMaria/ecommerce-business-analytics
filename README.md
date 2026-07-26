@@ -4,7 +4,8 @@ Turning raw website event logs into actionable business metrics using Google She
 Analyzed raw e-commerce website activity logs in Google Sheets to evaluate customer behavior across the product-view, shopping-cart, and purchase journey. Built a conversion funnel using unique-user metrics, prepared transaction-level data for cohort analysis, and calculated monthly customer retention rates. The project demonstrates advanced spreadsheet modeling, pivot tables, lookup functions, data preparation, funnel analysis, cohort analysis, and executive-level communication.
 
 
-ecommerce-business-analytics.xlsx](https://docs.google.com/spreadsheets/d/1bmhr4IGUzAr3PbWkQtJZLq-msx3rLTdmxWBTP8KA7pM/edit?usp=sharing)
+ecommerce-business-analytics.xlsx
+https://docs.google.com/spreadsheets/d/1bmhr4IGUzAr3PbWkQtJZLq-msx3rLTdmxWBTP8KA7pM/edit?usp=sharing
 
 Images
 executive-summary.png
